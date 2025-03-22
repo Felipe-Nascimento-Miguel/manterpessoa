@@ -1,5 +1,5 @@
-let listaTarefas = [];
+let lista_tarefas = [];
 
-function adicionarTarefa(tarefa) {
-    listaTarefas.push(tarefa);
+function adicionar_tarefa(tarefa) {
+    lista_tarefas.push(tarefa);
 }
